@@ -62,7 +62,7 @@
 ### 👀 Profile Views
 
 <p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=Yugenjr&style=flat-square&color=blue)
+  ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Yugenjr.Yugenjr)
 </p>
 
 ### 🔗 Connect With Me
