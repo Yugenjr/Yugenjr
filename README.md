@@ -62,7 +62,7 @@
 ### 👀 Profile Views
 
 <p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=Yugenjr&label=Profile%20views&color=0e75b6&style=flat)
+    <img alt="profile views" src="https://komarev.com/ghpvc/?username=Yugenjr&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ### 🔗 Connect With Me
