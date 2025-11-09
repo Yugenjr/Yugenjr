@@ -1,4 +1,7 @@
-<h1 align="center">Hey, I'm Yugendra N 👋</h1>
+<p align="center">
+  <img src="https://dummyimage.com/400x80/000/fff&text=Yugendra+N" alt="Yugendra N"/>
+</p>
+
 <h3 align="center">AI Enthusiast | Full-Stack Developer | Lifelong Learner</h3>
 
 <p align="center">
