@@ -41,11 +41,10 @@
   Experimental neural nets + human reasoning on unsolved math — blending patterns in zeta zero distributions for new insight.
 
 ---
-
 ### 🖥️ Github Stats
 
 <p align="center">
-  <img alt="Yugendra's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Yugenjr&show_icons=true&theme=radical" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Yugenjr&show_icons=true&theme=radical" />
 </p>
 
 ### 🔥 GitHub Streak
@@ -58,6 +57,22 @@
 
 <p align="center">
   <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yugenjr&layout=compact&theme=radical" />
+</p>
+
+### 👀 Profile Views
+
+<p align="center">
+  ![Profile Views](https://komarev.com/ghpvc/?username=Yugenjr&style=flat-square&color=blue)
+</p>
+
+### 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Yugenjr"><img src="https://img.shields.io/badge/GitHub-171515.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/yugendra-n"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/yourtwitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://instagram.com/yourinstagram"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:yugenjr847@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
