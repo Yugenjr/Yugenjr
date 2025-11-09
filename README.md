@@ -42,6 +42,14 @@
 
 ---
 
+### 🖥️ Github Stats
+
+<p align="center">
+  <img alt="Yugendra's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Yugenjr&show_icons=true&theme=radical" />
+</p>
+
+---
+
 ### 📈 Coding Profiles & Achievements
 
 - **LeetCode:** 300+ problems, Global Ranking: 231k  
