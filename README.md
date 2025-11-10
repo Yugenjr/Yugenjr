@@ -108,6 +108,8 @@
 </p>
 
 <p align="center">
+  <br> </br>
+  <br> </br>
   🏆 2nd Place Zeroday Hackathon, Freshathon winner, School First HSC  
   <br>
   📢 Active in technical clubs and outreach
