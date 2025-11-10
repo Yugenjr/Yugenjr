@@ -31,7 +31,7 @@
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,js,react,next,flask,nodejs,mongodb,firebase,figma" />
-<img src="https://skillicons.dev/icons?i=html,css,tensorflow,keras,git,github,vscode,fastapi"/>
+<img src="https://skillicons.dev/icons?i=html,css,tensorflow,git,github,vscode,fastapi"/>
 </p>
 
 - **Frontend:** React, Next.js, Figma
