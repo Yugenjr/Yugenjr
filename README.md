@@ -90,10 +90,9 @@
 
 ### 📈 Coding Profiles & Achievements
 
-- **LeetCode:** 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/yugendra_n)
-
-- **HackerRank:** 5⭐ Python, 4⭐ C/C++  
+![Hackerrank badges](https://hackerrank-badges.vercel.app/yugendra_n)
+ 
 - **Skillrack:** 1000+ problems solved  
 - **CodeChef:** 200+ problems  
 - 🏆 2nd Place Zeroday Hackathon, Freshathon winner, School First HSC  
