@@ -30,13 +30,15 @@
 ### 🔥 Tech Stack & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,js,react,next,flask,nodejs,mongodb,firebase,figma,html,css,tensorflow,keras,git,github,vscode,fastapi" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,react,next,flask,nodejs,mongodb,firebase,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,tensorflow,keras,git,github,vscode,fastapi"/>
 </p>
 
-- **Frontend:** React, Next.js, Figma    - **Backend:** Node.js, Flask, FastAPI, Streamlit  
+- **Frontend:** React, Next.js, Figma
+- **Backend:** Node.js, Flask, FastAPI, Streamlit  
 - **Databases:** MongoDB, Firebase, Supabase
-  
-- **ML/DL:** scikit-learn, TensorFlow, Keras, NumPy, Pandas, Matplotlib   - **Tools:** Git, VS Code, Vercel, Netlify, Kaggle  
+- **ML/DL:** scikit-learn, TensorFlow, Keras, NumPy, Pandas, Matplotlib
+- **Tools:** Git, VS Code, Vercel, Netlify, Kaggle  
 
 ---
 
