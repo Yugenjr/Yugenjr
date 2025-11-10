@@ -87,16 +87,34 @@
 </p>
 
 ---
-
 ### 📈 Coding Profiles & Achievements
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/yugendra_n)
-![Hackerrank badges](https://hackerrank-badges.vercel.app/yugendra_n)
- 
-- **Skillrack:** 1000+ problems solved  
-- **CodeChef:** 200+ problems  
-- 🏆 2nd Place Zeroday Hackathon, Freshathon winner, School First HSC  
-- 📢 Active in technical clubs and outreach
+<p align="center">
+  <b>Skillrack:</b> 1000+ problems solved &nbsp;
+  <img src="https://img.shields.io/badge/Skillrack-1000%2B%20Problems-blue?style=flat-square&logo=skillshare&logoColor=white" alt="Skillrack" />
+</p>
+
+<p align="center">
+  <b>CodeChef:</b> 200+ problems &nbsp;
+  <img src="https://img.shields.io/badge/CodeChef-200%2B%20Problems-FE7421?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef" />
+</p>
+
+<p align="center">
+  <b>LeetCode:</b>  
+  <img src="https://leetcard.jacoblin.cool/yugendra_n?ext=activity" alt="LeetCode Stats" />
+</p>
+
+<p align="center">
+  <b>HackerRank:</b>  
+  <img src="https://hackerrank-badges.vercel.app/yugendra_n" alt="HackerRank Badge" />
+</p>
+
+<p align="center">
+  🏆 2nd Place Zeroday Hackathon, Freshathon winner, School First HSC  
+  <br>
+  📢 Active in technical clubs and outreach
+</p>
+
 
 ---
 
