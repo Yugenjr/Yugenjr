@@ -100,12 +100,10 @@
 </p>
 
 <p align="center">
-  <b>LeetCode:</b>  
   <img src="https://leetcard.jacoblin.cool/yugendra_n?ext=activity" alt="LeetCode Stats" />
 </p>
 
-<p align="center">
-  <b>HackerRank:</b>  
+<p align="center">  
   <img src="https://hackerrank-badges.vercel.app/yugendra_n" alt="HackerRank Badge" />
 </p>
 
