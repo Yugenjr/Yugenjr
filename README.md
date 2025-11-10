@@ -93,22 +93,21 @@
   <b>Skillrack:</b> 1000+ problems solved &nbsp;
   <img src="https://img.shields.io/badge/Skillrack-1000%2B%20Problems-blue?style=flat-square&logo=skillshare&logoColor=white" alt="Skillrack" />
 </p>
-
+<br> </br>
 <p align="center">
   <b>CodeChef:</b> 200+ problems &nbsp;
   <img src="https://img.shields.io/badge/CodeChef-200%2B%20Problems-FE7421?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef" />
 </p>
-
+<br> </br>
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/yugendra_n?ext=activity" alt="LeetCode Stats" />
 </p>
-
+<br> </br>
 <p align="center">  
   <img src="https://hackerrank-badges.vercel.app/yugendra_n" alt="HackerRank Badge" />
 </p>
 
 <p align="center">
-  <br> </br>
   <br> </br>
   🏆 2nd Place Zeroday Hackathon, Freshathon winner, School First HSC  
   <br>
