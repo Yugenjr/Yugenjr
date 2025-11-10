@@ -15,9 +15,13 @@
 
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="200px" max-width="200px" width="250px" align="right">
 - 🧑‍💻 B.Tech - AI DS @ Sri Eshwar College of Engineering (CGPA: 8.5+)
+
 - 🤖 Passionate about AI, ML, and building scalable, intelligent apps.
+- 
 - 🛠️ Experienced with Python, C/C++, JavaScript, and full-stack web.
+- 
 - 🔬 Exploring the frontiers of AI-human collaboration for creative discovery.
+- 
 - 🧠 Always learning, always building!
 
 ---
