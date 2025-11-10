@@ -35,7 +35,8 @@
 
 - **Frontend:** React, Next.js, Figma  
 - **Backend:** Node.js, Flask, FastAPI, Streamlit  
-- **Databases:** MongoDB, Firebase, Supabase  
+- **Databases:** MongoDB, Firebase, Supabase
+  
 - **ML/DL:** scikit-learn, TensorFlow, Keras, NumPy, Pandas, Matplotlib  
 - **Tools:** Git, VS Code, Vercel, Netlify, Kaggle  
 
