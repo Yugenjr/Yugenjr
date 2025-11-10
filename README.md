@@ -91,7 +91,7 @@
 ### 📈 Coding Profiles & Achievements
 
 - **LeetCode:** 
-    ![Leetcode Stats](https://leetcard.jacoblin.cool/yugendra_n)
+![Leetcode Stats](https://leetcard.jacoblin.cool/yugendra_n)
 
 - **HackerRank:** 5⭐ Python, 4⭐ C/C++  
 - **Skillrack:** 1000+ problems solved  
