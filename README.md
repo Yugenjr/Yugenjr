@@ -45,7 +45,7 @@
 ### 🚀 Projects & Endeavors
 
 - **TrackIt - Expiry Tracking Predictive Analysis:**  
-  Full-stack web app (Next.js + MongoDB) with OpenCV & Tesseract OCR for expiry detection, modular APIs, CI/CD workflows.
+  Full-stack web app (Next.js + MongoDB) with OpenCV & Tesseract OCR for expiry detection, modular APIs.
 - **Parkinson’s Disease ML Detection:**  
   Compared SVM, RF, KNN, Logistic Regression using biomedical voice features; cross-validation, metric optimization, and visualization.
 - **Riemann Hypothesis via AI Collaboration:**  
