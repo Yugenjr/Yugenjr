@@ -100,7 +100,7 @@
 </p>
 <br> </br>
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/yugendra_n?ext=activity" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Yugen_n847?ext=activity" alt="LeetCode Stats" />
 </p>
 <br> </br>
 <p align="center">  
