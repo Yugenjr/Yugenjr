@@ -44,43 +44,26 @@ Building intelligent systems, scalable web apps, and clean developer experiences
 - Cross-validation & metrics comparison
 
 ---
+## 📊 GitHub Analytics
 
-## 🌐 Open Source Contributions
-
-- 🎨 **JustCoding**
-  - Frontend UI redesign (dark neon theme)
-  - Client-side only, no backend changes
-  - PR: https://github.com/ANU-2524/JustCoding/pull/92
-
----
-
-## 📊 GitHub Analytics (Visual)
-
-### 🔹 Overall Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yugenjr&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
-### 🔹 Contribution Streak
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yugenjr&theme=radical&hide_border=true" />
 </p>
 
-### 🔹 Top Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yugenjr&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
-
-## 📈 Contribution Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yugenjr&theme=github-compact&hide_border=true" />
 </p>
 
 ---
-
-## 📊 Advanced GitHub Metrics
 <p align="center">
   <img src="https://metrics.lecoq.io/Yugenjr?template=classic&languages=1&activity=1&repositories=1&config.timezone=Asia/Kolkata" />
 </p>
@@ -89,9 +72,9 @@ Building intelligent systems, scalable web apps, and clean developer experiences
 
 ## 🏆 Competitive Programming
 
-- **Skillrack:** 1000+ problems solved
-- **CodeChef:** 200+ problems solved
-- **LeetCode:** Active problem solver
+- **Skillrack:** 1200+ problems solved
+- **CodeChef:** 300+ problems solved
+- **Codeforces:** 80+ problems solved
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Yugen_n847?ext=activity" />
@@ -99,7 +82,7 @@ Building intelligent systems, scalable web apps, and clean developer experiences
 
 ---
 
-## 🔗 Connect
+## 🔗 Connect With Me
 
 <p align="center">
   <a href="https://github.com/Yugenjr">
