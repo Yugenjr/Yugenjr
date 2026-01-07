@@ -12,6 +12,8 @@
 
 ## 👋 About Me
 
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="200px" max-width="200px" width="250px" align="right">
+
 - 🎓 B.Tech – Artificial Intelligence & Data Science  
   **Sri Eshwar College of Engineering** (CGPA: 8.5+)
 - 🧠 Focused on **AI/ML**, **frontend engineering**, and **system design**
