@@ -47,10 +47,6 @@ Building intelligent systems, scalable web apps, and clean developer experiences
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yugenjr&show_icons=true&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yugenjr&theme=radical&hide_border=true" />
 </p>
 
