@@ -88,8 +88,18 @@ Building intelligent systems, scalable web apps, and clean developer experiences
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Yugen_n847?ext=activity" />
 </p>
-
+<p align="center">  
+  <img src="https://hackerrank-badges.vercel.app/yugendra_n" alt="HackerRank Badge" />
+</p>
 ---
+### 🛠️ IDEs & Preferred Tools
+
+<p align="center">
+<img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
 
 ## 🔗 Connect With Me
 
