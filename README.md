@@ -78,7 +78,6 @@ Building intelligent systems, scalable web apps, and clean developer experiences
     </td>
   </tr>
 </table>
----
 
 ## 🏆 Competitive Programming
 
