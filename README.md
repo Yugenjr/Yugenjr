@@ -1,14 +1,11 @@
-<!-- ================= BANNER ================= -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yugenjr/Yugenjr/main/banner.png" alt="Yugendra N Banner"/>
+  <img src="https://dummyimage.com/400x80/000/fff&text=Yugendra+N" alt="Yugendra N"/>
 </p>
 
-<h3 align="center">
-AI & ML Engineer | Full-Stack Developer | Open Source Contributor
-</h3>
+<h3 align="center">AI Enthusiast | Full-Stack Developer | Open Source Contributor | Lifelong Learner</h3>
 
 <p align="center">
-Building intelligent systems, scalable web apps, and clean developer experiences.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=800&center=true&vCenter=true&width=435&lines=AI-driven+Coding+Addict+%F0%9F%A4%96;React%2BNext+Full-Stack+Builder+%F0%9F%92%BB;Never+stop+solving+%F0%9F%A4%9E;Always+experimenting+with+AI+%F0%9F%94%9A;OpenCV%2C+ML%2C+Web%2C+and+beyond" alt="Typing SVG" />
 </p>
 
 ---
