@@ -93,7 +93,7 @@ Building intelligent systems, scalable web apps, and clean developer experiences
 </p>
 ---
 
-### 🛠️ IDEs & Preferred Tools
+## 🛠️ IDEs & Preferred Tools
 
 
 <p align="center">
