@@ -54,10 +54,6 @@ Building intelligent systems, scalable web apps, and clean developer experiences
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yugenjr&theme=radical&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yugenjr&layout=compact&theme=radical&hide_border=true" />
-</p>
-
 ---
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yugenjr&theme=github-compact&hide_border=true" />
