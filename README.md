@@ -44,7 +44,7 @@ Building intelligent systems, scalable web apps, and clean developer experiences
 - Cross-validation & metrics comparison
 
 ---
-## 📊 GitHub Analytics
+## 📊 GitHub Activity Overview
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yugenjr&theme=radical&hide_border=true" />
@@ -56,9 +56,6 @@ Building intelligent systems, scalable web apps, and clean developer experiences
 </p>
 
 ---
-
-## 📊 GitHub Activity Overview
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Yugenjr/Yugenjr/main/profile-summary-card-output/solarized_dark/0-profile-details.svg" />
 </p>
