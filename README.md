@@ -64,11 +64,6 @@ Building intelligent systems, scalable web apps, and clean developer experiences
 </p>
 
 ---
-<p align="center">
-  <img src="https://metrics.lecoq.io/Yugenjr?template=classic&languages=1&activity=1&repositories=1&config.timezone=Asia/Kolkata" />
-</p>
-
----
 
 ## 📊 GitHub Activity Overview
 
