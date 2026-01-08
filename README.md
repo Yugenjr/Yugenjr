@@ -43,8 +43,8 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yugenjr&theme=github-compact&hide_border=true" />
 </p>
----
 
+---
 ## 🚀 Selected Projects
 
 ### **TrackIt – Expiry Tracking & Predictive Analysis**
