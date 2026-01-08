@@ -8,23 +8,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=800&center=true&vCenter=true&width=435&lines=AI-driven+Coding+Addict+%F0%9F%A4%96;React%2BNext+Full-Stack+Builder+%F0%9F%92%BB;Never+stop+solving+%F0%9F%A4%9E;Always+experimenting+with+AI+%F0%9F%94%9A;OpenCV%2C+ML%2C+Web%2C+and+beyond" alt="Typing SVG" />
 </p>
 
----
-
-## 👋 About Me
-
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="200px" max-width="200px" width="250px" align="right">
-
-- B.Tech – Artificial Intelligence & Data Science  
-  **Sri Eshwar College of Engineering** (CGPA: 8.5+)
-- Focused on **AI/ML**, **frontend engineering**, and **system design**
-- Python, C/C++, JavaScript, React, Next.js
-- Active open-source contributor with real PRs
-- Footballer
-
----
-
-## 🧩 Tech Stack
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,js,react,next,nodejs,flask,fastapi,mongodb,firebase,git,github,figma" />
 </p>
