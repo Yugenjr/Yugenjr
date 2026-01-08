@@ -12,14 +12,10 @@
   <img src="https://skillicons.dev/icons?i=python,cpp,js,react,next,nodejs,flask,fastapi,mongodb,firebase,git,github,figma" />
 </p>
 
----
-
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yugenjr&theme=radical&hide_border=true" />
 </p>
 
----
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yugenjr&theme=github-compact&hide_border=true" />
 </p>
