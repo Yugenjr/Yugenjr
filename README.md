@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://dummyimage.com/400x80/000/fff&text=Yugendra+N" alt="Yugendra N"/>
+  <img src="https://dummyimage.com/500x80/000/fff&text=Yugendra+N" alt="Yugendra N"/>
 </p>
 
 <h3 align="center">AI Enthusiast | Full-Stack Developer | Open Source Contributor | Lifelong Learner</h3>
@@ -35,7 +35,6 @@
     </td>
   </tr>
 </table>
-.
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yugenjr&theme=github-compact&hide_border=true" />
@@ -53,8 +52,8 @@
 - SVM, RF, KNN, Logistic Regression
 - Biomedical voice feature analysis
 - Cross-validation & metrics comparison
----
 
+---
 ## 🏆 Competitive Programming
 
 - **Skillrack:** 1200+ problems solved
@@ -67,8 +66,8 @@
 <p align="center">  
   <img src="https://hackerrank-badges.vercel.app/yugendra_n" alt="HackerRank Badge" />
 </p>
----
 
+---
 ## 🛠️ IDEs & Preferred Tools
 
 
@@ -79,6 +78,7 @@
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
+---
 ## 🔗 Connect With Me
 
 <p align="center">
