@@ -14,6 +14,42 @@
 
 ---
 
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yugenjr&theme=radical&hide_border=true" />
+</p>
+
+---
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yugenjr&theme=github-compact&hide_border=true" />
+</p>
+
+---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Yugenjr/Yugenjr/main/profile-summary-card-output/solarized_dark/0-profile-details.svg" />
+</p>
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/Yugenjr/Yugenjr/main/profile-summary-card-output/solarized_dark/1-repos-per-language.svg" />
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/Yugenjr/Yugenjr/main/profile-summary-card-output/solarized_dark/2-most-commit-language.svg" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/Yugenjr/Yugenjr/main/profile-summary-card-output/solarized_dark/3-stats.svg" />
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/Yugenjr/Yugenjr/main/profile-summary-card-output/solarized_dark/4-productive-time.svg" />
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🚀 Selected Projects
 
 ### **TrackIt – Expiry Tracking & Predictive Analysis**
@@ -27,7 +63,6 @@
 - Cross-validation & metrics comparison
 
 ---
-## 📊 GitHub Activity Overview
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yugenjr&theme=radical&hide_border=true" />
