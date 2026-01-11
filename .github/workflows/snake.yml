@@ -2,7 +2,7 @@ name: 🐍 Generate Snake Animation
 
 on:
   schedule:
-    - cron: '0 0 * * 0'  # Weekly on Sunday
+    - cron: '0 0 * * 0' # Weekly on Sunday
   push:
   workflow_dispatch:
 
@@ -17,8 +17,9 @@ jobs:
         with:
           fetch-depth: 0
 
-    - name: Create output directory
-      run: mkdir -p .github/assets
+      - name: Create output directory
+        run: mkdir -p .github/assets
+
       - name: Generate snake SVG from contribution graph
         uses: Platane/snk@master
         with:
