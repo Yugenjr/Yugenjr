@@ -2,7 +2,7 @@ name: 🐍 Generate Snake Animation
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Daily at midnight UTC
+    - cron: '0 0 * * 0'  # Weekly on Sunday
   push:
     branches:
       - main
@@ -14,25 +14,26 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repo
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - name: Generate snake SVG
+      - name: Generate snake SVG from contribution graph
         uses: Platane/snk@master
-        id: snake-svg
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: Yugenjr
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          size_ratio: 1
-          seed: 42
+          snake_color: '23DC912B'
+          height: 8
 
-      - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
+          commit_message: 'Generate Contributions Snake'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
