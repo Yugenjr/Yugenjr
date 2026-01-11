@@ -101,5 +101,3 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" alt="Gmail" />
   </a>
 </p>
-
-
