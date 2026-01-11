@@ -19,6 +19,8 @@ jobs:
         with:
           fetch-depth: 0
 
+    - name: Create output directory
+      run: mkdir -p .github/assets
       - name: Generate snake SVG from contribution graph
         uses: Platane/snk@master
         with:
