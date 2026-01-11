@@ -90,5 +90,9 @@
   </a>
   <a href="mailto:yugenjr847@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+
+    ## 🐍 Contribution Snake Animation
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/Yugenjr/Yugenjr/output/github-snake.svg)
   </a>
 </p>
