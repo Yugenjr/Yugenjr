@@ -68,7 +68,7 @@
 - **Codeforces:** 80+ problems solved
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Yugen_n847?ext=activity" alt="LeetCode Activity Card" />
+  <img src="https://leetcard.jacoblin.cool/Yugen_jr_847?ext=activity" alt="LeetCode Activity Card" />
 </p>
 
 <p align="center">
