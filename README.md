@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,react,next,nodejs,flask,fastapi,mongodb,mysql,postgresql,redis,firebase,prisma,supabase,git,github,linux,bash,vercel,tailwind,redux,opencv,pytorch,tensorflow,sklearn,nginx,dart,graphql,figma" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,react,next,nodejs,flask,fastapi,mongodb,mysql,postgresql,redis,firebase,prisma,supabase,git,github,linux,bash,vercel,tailwind,redux,opencv,pytorch,tensorflow,sklearn,nginx,dart,graphql,figma,canva" alt="Tech Stack" />
 </p>
 
 ---
