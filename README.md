@@ -41,8 +41,12 @@
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Yugenjr/Yugenjr/output/github-snake.svg?t=1" />
 </p>
 
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yugenjr&theme=github-compact&hide_border=true" alt="Activity Graph" />
+	<img
+		src="https://github-readme-activity-graph.vercel.app/graph?username=Selvaprakash-V&theme=tokyo-night&area=true&hide_border=true"
+		alt="Selvaprakash V's GitHub Activity Graph"
+	/>
 </p>
 
 ---
