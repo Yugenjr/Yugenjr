@@ -5,7 +5,7 @@
 <h3 align="center">AI Enthusiast | Full-Stack Developer | Open Source Contributor</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=435&lines=AI+%26+ML+Focused+Developer;Full-Stack+Builder+(React%2C+Next.js);Problem+Solver+%7C+Open+Source+Contributor;Exploring+AI%2C+Computer+Vision%2C+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=800&color=39D353&center=true&vCenter=true&width=435&lines=AI+%26+ML+Focused+Developer;Full-Stack+Builder+(React%2C+Next.js);Problem+Solver+%7C+Open+Source+Contributor;Exploring+AI%2C+Computer+Vision%2C+Systems" />
 </p>
 
 <p align="center">
