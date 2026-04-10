@@ -68,7 +68,7 @@
 - **Codeforces:** 80+ problems solved
 
 <p align="center">
-	<img src="https://leetcard.jacoblin.cool/SelvaprakashV?theme=dark&font=Fira%20Code&ext=activity&border=1&radius=8" alt="LeetCode Stats" />
+	<img src="https://leetcard.jacoblin.cool/Yugen_jr_847?theme=dark&font=Fira%20Code&ext=activity&border=1&radius=8" alt="LeetCode Stats" />
 </p>
 
 <p align="center">
