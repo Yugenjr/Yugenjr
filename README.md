@@ -42,13 +42,6 @@
 </p>
 
 ---
-
-## 🏆 Competitive Programming
-
-- **Skillrack:** 1200+ problems  
-- **CodeChef:** 300+ problems  
-- **Codeforces:** 80+ problems  
-
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Yugen_jr_847?theme=dark&border=1&radius=6" />
 </p>
