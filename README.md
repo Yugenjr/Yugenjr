@@ -43,20 +43,6 @@
 
 ---
 
-## 🚀 Selected Projects
-
-### TrackIt – Expiry Tracking & Predictive Analysis
-- Full-stack app (Next.js + MongoDB)
-- OCR with OpenCV + Tesseract
-- Predictive inventory insights
-
-### Parkinson’s Disease Detection (ML)
-- SVM, RF, KNN, Logistic Regression
-- Voice-based biomedical analysis
-- Cross-validation and metrics evaluation
-
----
-
 ## 🏆 Competitive Programming
 
 - **Skillrack:** 1200+ problems  
