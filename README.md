@@ -52,6 +52,12 @@
 
 ---
 
+    ## 🐍 Contribution Snake Animation
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/Yugenjr/Yugenjr/output/github-snake.svg)
+
+---
+
 ## 🛠️ Tools
 
 <p align="center">
