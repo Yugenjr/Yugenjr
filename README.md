@@ -73,7 +73,7 @@
   <a href="https://github.com/Yugenjr">
     <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=39D353"/>
   </a>
-  <a href="https://linkedin.com/in/yugendra-n">
+  <a href="https://linkedin.com/in/yugen842007sece/">
     <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=39D353"/>
   </a>
   <a href="mailto:yugenjr847@gmail.com">
