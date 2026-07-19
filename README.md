@@ -48,7 +48,6 @@
 
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/Yugenjr/Yugenjr/output/github-snake.svg)
 
----
 
 ## Tools
 
@@ -58,8 +57,6 @@
   <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=39D353"/>
   <img src="https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=39D353"/>
 </p>
-
----
 
 ## Connect
 
