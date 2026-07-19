@@ -43,13 +43,14 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Yugen_jr_847?theme=dark&border=1&radius=6" />
 </p>
+
 ---
 
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/Yugenjr/Yugenjr/output/github-snake.svg)
 
 ---
 
-## 🛠️ Tools
+## Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=39D353"/>
@@ -60,7 +61,7 @@
 
 ---
 
-## 🔗 Connect
+## Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/yugen842007sece/">
