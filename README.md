@@ -43,11 +43,6 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Yugen_jr_847?theme=dark&border=1&radius=6" />
 </p>
-
-<p align="center">
-  <img src="https://hackerrank-badges.vercel.app/yugendra_n" />
-</p>
-
 ---
 
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/Yugenjr/Yugenjr/output/github-snake.svg)
@@ -68,9 +63,6 @@
 ## 🔗 Connect
 
 <p align="center">
-  <a href="https://github.com/Yugenjr">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=39D353"/>
-  </a>
   <a href="https://linkedin.com/in/yugen842007sece/">
     <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=39D353"/>
   </a>
