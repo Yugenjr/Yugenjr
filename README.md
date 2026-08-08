@@ -1,8 +1,8 @@
 <p align="center">
  
-
-```text
 yugenjr@github:~$ neofetch
+```text
+
 
                     ██╗   ██╗██╗   ██╗ ██████╗ ███████╗███╗   ██╗██████╗ ██████╗  █████╗     ███╗   ██╗
                     ╚██╗ ██╔╝██║   ██║██╔════╝ ██╔════╝████╗  ██║██╔══██╗██╔══██╗██╔══██╗    ████╗  ██║
@@ -25,8 +25,9 @@ yugenjr@github:~$ neofetch
         desire        : to code
         hobby         : playing football , contributing to repos 
 
-yugenjr@github:~$ _
+
 ```
+yugenjr@github:~$ _
 
 </p>
 
