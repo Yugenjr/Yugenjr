@@ -20,8 +20,6 @@
   <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,react,next,nodejs,flask,fastapi,mongodb,mysql,postgresql,firebase,prisma,supabase,git,github,vercel,tailwind,redux,opencv,pytorch,tensorflow,sklearn,dart,figma,docker,kubernetes,bash&theme=dark" />
 </p>
 
----
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Yugenjr/Yugenjr/main/profile-summary-card-output/github_dark/0-profile-details.svg" />
 </p>
