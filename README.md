@@ -49,12 +49,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yugenjr&theme=github-dark&hide_border=true&area=true&color=39D353&line=39D353&point=39D353&area_color=39D353" />
 </p>
 
----
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Yugen_jr_847?theme=dark&border=1&radius=6" />
 </p>
 
----
 
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/Yugenjr/Yugenjr/output/github-snake.svg)
 
