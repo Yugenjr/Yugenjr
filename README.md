@@ -11,11 +11,11 @@ yugenjr@github:~$ neofetch
                        ██║   ╚██████╔╝╚██████╔╝███████╗██║ ╚████║██████╔╝██║  ██║██║  ██║    ██║ ╚████║
                        ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝    ╚═╝  ╚═══╝
 
-        login        : Yugenjr
-        name         : Yugendra N
-        company      : Sri Eshwar College of Engineering
-        location     : Coimbatore
-        type         : User
+        login         : Yugenjr
+        name          : Yugendra N
+        company       : Sri Eshwar College of Engineering
+        location      : Coimbatore
+        type          : User
         public_repos  : 120
         public_gists  : 0
         followers     : 42
