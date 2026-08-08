@@ -44,7 +44,7 @@
 </table>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yugenjr&theme=github-dark&hide_border=true&area=true&color=39D353&line=39D353&point=39D353&area_color=39D353" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yugenjr&hide_title=true&hide_border=true&hide_axis=true&area=true&bg_color=0D1117&color=39D353&line=39D353&point=39D353&area_color=39D353" />
 </p>
 
 <p align="center">
