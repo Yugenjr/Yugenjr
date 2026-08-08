@@ -59,22 +59,4 @@
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/Yugenjr/Yugenjr/output/github-snake.svg)
 
 
-## Tools
 
-<p align="center">
-  <img src="https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=39D353"/>
-  <img src="https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=39D353"/>
-  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=39D353"/>
-  <img src="https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=39D353"/>
-</p>
-
-## Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/yugen842007sece/">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=39D353"/>
-  </a>
-  <a href="mailto:yugenjr847@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=39D353"/>
-  </a>
-</p>
