@@ -1,7 +1,9 @@
 <p align="center">
  
+
 ```text
- 
+yugenjr@github:~$ neofetch
+
                     ██╗   ██╗██╗   ██╗ ██████╗ ███████╗███╗   ██╗██████╗ ██████╗  █████╗     ███╗   ██╗
                     ╚██╗ ██╔╝██║   ██║██╔════╝ ██╔════╝████╗  ██║██╔══██╗██╔══██╗██╔══██╗    ████╗  ██║
                      ╚████╔╝ ██║   ██║██║  ███╗█████╗  ██╔██╗ ██║██║  ██║██████╔╝███████║    ██╔██╗ ██║
@@ -9,7 +11,23 @@
                        ██║   ╚██████╔╝╚██████╔╝███████╗██║ ╚████║██████╔╝██║  ██║██║  ██║    ██║ ╚████║
                        ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝    ╚═╝  ╚═══╝
 
-```                                                                          
+        login        : Yugenjr
+        name         : Yugendra N
+        company      : Sri Eshwar College of Engineering
+        location     : Coimbatore
+        type         : User
+        public_repos  : 120
+        public_gists  : 0
+        followers     : 42
+        following     : 51
+        created_at    : 2024-09-28T09:14:11Z
+        updated_at    : 2026-07-27T19:30:13Z
+        desire        : to code
+        hobby         : playing football , contributing to repos 
+
+yugenjr@github:~$ _
+```
+
 </p>
 
 <p align="center">
