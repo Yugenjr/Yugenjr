@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,react,next,nodejs,flask,fastapi,mongodb,mysql,postgresql,firebase,prisma,supabase,git,github,vercel,tailwind,redux,opencv,pytorch,tensorflow,sklearn,dart,figma,docker,reactnative-original,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,react,next,nodejs,flask,fastapi,mongodb,mysql,postgresql,firebase,prisma,supabase,git,github,vercel,tailwind,redux,opencv,pytorch,tensorflow,sklearn,dart,figma,docker,kubernetes,bash&theme=dark" />
 </p>
 
 ---
