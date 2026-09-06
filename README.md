@@ -18,8 +18,8 @@ yugenjr@github:~$ neofetch
         type          : User
         public_repos  : 120
         public_gists  : 0
-        followers     : 42
-        following     : 51
+        followers     : 41
+        following     : 50
         created_at    : 2024-09-28T09:14:11Z
         updated_at    : 2026-07-27T19:30:13Z
         desire        : to code
