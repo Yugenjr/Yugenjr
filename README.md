@@ -70,8 +70,13 @@ yugenjr@github:~$ _
   <img src="https://leetcard.jacoblin.cool/Yugen_jr_847?theme=dark&border=1&radius=6" />
 </p>
 
+<!--
+This entire section will be hidden when rendered on GitHub.
 
-#![GitHub Contribution Snake](https://raw.githubusercontent.com/Yugenjr/Yugenjr/output/github-snake.svg)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/Yugenjr/Yugenjr/output/github-snake.svg)
+
+-->
+
 
 
 
