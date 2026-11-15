@@ -71,7 +71,7 @@ yugenjr@github:~$ _
 </p>
 
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/Yugenjr/Yugenjr/output/github-snake.svg)
+#![GitHub Contribution Snake](https://raw.githubusercontent.com/Yugenjr/Yugenjr/output/github-snake.svg)
 
 
 
