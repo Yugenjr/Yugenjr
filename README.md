@@ -66,13 +66,13 @@ yugenjr@github:~$ _
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yugenjr&hide_title=true&hide_border=true&hide_axis=true&area=true&bg_color=0D1117&color=39D353&line=39D353&point=39D353&area_color=39D353" />
 </p>
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Yugen_jr_847?theme=dark&border=1&radius=6" />
-</p>
 
 <!--
 This entire section will be hidden when rendered on GitHub.
 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Yugen_jr_847?theme=dark&border=1&radius=6" />
+</p>
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/Yugenjr/Yugenjr/output/github-snake.svg)
 
 -->
